@@ -4,6 +4,6 @@
 
 > [https://myrest.top/zh-cn/myflow](https://myrest.top/zh-cn/myflow)
 
-![light](https://myrest.top/static/images/myflow/builtin_light.png)
+![light](https://myrest.top/static/images/myflow/action_window_light.png)
 
-![dark](https://myrest.top/static/images/myflow/builtin_dark.png)
+![dark](https://myrest.top/static/images/myflow/action_window_dark.png)
